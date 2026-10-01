@@ -1,0 +1,21 @@
+/* content, padding, boarder, margin */
+
+div{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightgray;
+    padding: 20px 10px 5px 30px;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+/* 
+Padding:
+20px = top padding
+10px = right padding
+5px = bottom padding
+30px = left padding
+*/

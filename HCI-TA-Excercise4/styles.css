@@ -1,0 +1,38 @@
+/* content, padding, boarder, margin */
+
+div{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+    border: solid lightgray;
+    border-radius: 10px;
+    margin: 20px 300px 20px 300px;
+}
+
+#paragraph{
+    text-align: justify;
+}
+
+span{
+    color: red;
+}
+
+.button{
+    text-align: left;
+    color: white;
+    background-color: blue;
+    padding: 20px 20px 20px 20px;
+    border-radius: 10px;
+    margin: 20px 470px 20px 0px;
+}
+
+/* 
+Padding:
+20px = top padding
+10px = right padding
+5px = bottom padding
+30px = left padding
+*/
